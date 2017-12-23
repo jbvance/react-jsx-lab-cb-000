@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
 class RegistrationForm extends Compnonent {
-  render () {
+  render() {
     return (
       <form>
-  <input type="submit" value="Submit" />
-</form>
+        <input type="submit" value="Submit" />
+      </form>
     );
   }
 }
