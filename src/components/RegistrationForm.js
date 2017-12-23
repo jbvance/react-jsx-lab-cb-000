@@ -11,3 +11,5 @@ class RegistrationForm extends Compnonent {
     );
   }
 }
+
+export default RegistrationForm;
