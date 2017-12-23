@@ -8,7 +8,7 @@ class Webpage extends Compnonent {
         <title>{"The world's coolest webpage"}</title>
         <FillerText/>
         <FillerText/>
-      <div>
+      </div>
     );
   }
 }
