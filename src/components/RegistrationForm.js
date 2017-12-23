@@ -4,10 +4,8 @@ class RegistrationForm extends Compnonent {
   render () {
     return (
       <form>
-        <input type="text">
-        <input type="password">
-        <input type="submit" value="submit">
-      </form>
+  <input type="submit" value="Submit" />
+</form>
     );
   }
 }
