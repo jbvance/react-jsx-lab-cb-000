@@ -1,4 +1,4 @@
-import React { Component } from 'react';
+import React, { Component } from 'react';
 import FillerText from './FillerText';
 
 class Webpage extends Compnonent {
