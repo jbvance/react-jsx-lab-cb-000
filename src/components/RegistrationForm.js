@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class RegistrationForm extends Compnonent {
+class RegistrationForm extends Component {
   render() {
     return (
       <form>
