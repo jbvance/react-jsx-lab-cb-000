@@ -6,7 +6,7 @@ class RegistrationForm extends Component {
       <form>
         <input type="text" />
         <input type="password" />
-        <input type="submit" value="Submit" />
+        <button type="submit">Submit</button>
       </form>
     );
   }
